@@ -1,4 +1,11 @@
 ## Hi there 👋
+My name is Mauricio, and I am a mechanical engineer with a passion for research and development. My strong suit is in design and product development, and knowledgeable in a variety of subjects. I have a passion for environmentalism and advanced manufacturing. 
+
+- 🔭 I’m currently working on improving my engineering skill set 
+- 🌱 I’m currently learning CFD/FEA simulation 
+- 💬 Ask me about anything 
+- 📫 How to reach me: mauribailey@gmail.com
+- 😄 Pronouns: he/him
 
 <!--
 **mauriciobailey/mauriciobailey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
