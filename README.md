@@ -1,3 +1,4 @@
+[--Engineering Portfolio--.pdf](https://github.com/user-attachments/files/27500753/--Engineering.Portfolio--.pdf)
 ## Hi there 👋
 My name is Mauricio, and I am a mechanical engineer with a passion for research and development. My strong suit is in design and product development, and knowledgeable in a variety of subjects. I have a passion for environmentalism and advanced manufacturing. 
 
